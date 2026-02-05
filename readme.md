@@ -1,5 +1,11 @@
 git practice
+
 learning git diff on MAIN branch
+
+learning git diff from MASTER branch
+
+switched to master branch
+
 learning git restore command to restore an unstaged changes in an file to last commited file.
 (git restore .) or for any specific file (git restore readme.md)
 (git restore --staged fileName): remove file from staging
@@ -10,3 +16,6 @@ git branch: check current branch
 git branch branchName: create new branch
 git switch branchName: switch branch
 git switch -c branchName: create & switch
+
+Trying to add merge conflict in master brach and resolve it
+
