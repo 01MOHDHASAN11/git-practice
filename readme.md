@@ -16,3 +16,4 @@ learning git restore command to restore an unstaged changes in an file to last c
 
 git switch -c branchName: It will create and switch to new branch
 
+Trying to add merge conflict in master brach and resolve it
