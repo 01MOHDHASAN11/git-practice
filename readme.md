@@ -1,5 +1,5 @@
 git practice
-learning git diff
+learning git diff on MAIN branch
 learning git restore command to restore an unstaged changes in an file to last commited file.
 (git restore .) or for any specific file (git restore readme.md)
 (git restore --staged fileName): remove file from staging
