@@ -1,5 +1,5 @@
 git practice
-learning git diff
+learning git diff from MASTER branch
 
 switch ed to master branch
 learning git restore command to restore an unstaged changes in an file to last commited file.
